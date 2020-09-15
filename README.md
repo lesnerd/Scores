@@ -1,4 +1,4 @@
-# TOTAL SCORES VARONIS
+# TOTAL SCORES
 ### Features
 -------------
 - Written in .net-core 3.1 LTS;
