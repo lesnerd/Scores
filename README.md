@@ -12,8 +12,10 @@
 -------------
 - The settings shall be encrypted (with DPAPI) or get served by a service or DB;
 - More modularity is better but its an exercise there are litteraly endless ways to improve;
-- In case of a huge DB requestion data with paging is better.
+- In case of a huge DB requestion data with paging is better;
 - Same as for the rest service;
+- A couple of unit tests are included. NOT 100% COVERAGE;
++ Integration tests are not included. But they are a must.
 
 ### Configuring the rest service
                 
