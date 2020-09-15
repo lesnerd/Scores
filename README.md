@@ -1,6 +1,6 @@
 # TOTAL SCORES VARONIS
 ### Features
-
+-------------
 - Written in .net-core 3.1 LTS;
 - Uses the built in .net-core dependency injection;
 - Modular system: DAL, BL, Services, Client, Model;
@@ -18,7 +18,7 @@
 + Integration tests are not included. But they are a must.
 
 ### Configuring the rest service
-                
+-------------           
 + Go to https://beeceptor.com/
 + Choose the 'varonis-test' endpoint name
     + Click on 'Mocking rules'
